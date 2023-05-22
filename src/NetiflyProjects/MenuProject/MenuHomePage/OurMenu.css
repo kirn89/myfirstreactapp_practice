@@ -1,0 +1,10 @@
+.menuGap {
+    gap: 2rem;
+
+}
+
+.headerUnderLine {
+    background-color: #dc3545;
+    height: 5px;
+    width: 100px;
+}
